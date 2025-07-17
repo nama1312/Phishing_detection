@@ -1,0 +1,9 @@
+https://data.mendeley.com/datasets/6tm2d6sz7p/1
+
+C:\Users\mishr\Desktop\phishing\dmx>uvicorn aap:app --reload
+
+C:\Users\mishr>cd desktop
+
+Browser:
+
+http://127.0.0.1:8000/docs
